@@ -14,7 +14,7 @@ I loves collaborating!<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW
 - 📫 How to reach me:
   
   :email: : [lkdharun@gmail.com](mailto:lkdharun@gmail.com)               
-  :briefcase: : https://www.linkedin.com/in/dharun-narayanan-l-k-407459197/
+  :briefcase: : https://www.linkedin.com/in/dharun-narayanan-l-k-407459197/ <br />
   :man_technologist: : https://dharun-narayanan.github.io/me/
 
 
