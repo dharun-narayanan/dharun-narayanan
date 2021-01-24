@@ -20,7 +20,7 @@ He loves collaborating!<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vN
 
 
 
-![](https://komarev.com/ghpvc/?username=Srinath-R&color=brightgreen&style=flat-square)
+![](https://komarev.com/ghpvc/?username=dharun-narayanan&color=brightgreen&style=flat-square)
 <!--
 Here are some ideas to get you started:
 ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
