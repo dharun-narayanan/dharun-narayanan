@@ -10,8 +10,8 @@
 
 [![Dharun Narayanan's github stats](https://github-readme-stats.vercel.app/api?username=dharun-narayanan&include_all_commits=true&count_private=true&show_icons=true&theme=monokai)](https://github.com/dharun-narayanan/github-readme-stats)
 
-I loves collaborating!<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
-- 📫 How to reach me:
+He loves collaborating!<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
+- 📫 How to reach him:
   
   :email: : [lkdharun@gmail.com](mailto:lkdharun@gmail.com)               
   :briefcase: : https://www.linkedin.com/in/dharun-narayanan-l-k-407459197/ <br />
