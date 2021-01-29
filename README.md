@@ -15,10 +15,10 @@
 - 🔭 I’m currently working on a new fultter project for Google DSC. 
 - 🌱 I’m currently learning Machine Learning and DSA.
 - 👯 I’m looking to collaborate on open source Flutter project. 
-- 🤔 I’m looking for help with my one of open source project [Exam Scheduling Management System](https://github.com/TheAlphamerc/flutter_twitter_clone)
+- 🤔 I’m looking for help with my one of open source project [Exam Scheduling Management System](https://github.com/dharun-narayanan/Exam-Scheduling-Management-System)
 - 💬 Ask me about Flutter | C++ | Firebase
-- 📫 How to reach me: [Github](https://github.com/dharun-narayanan), [Blog](https://dharun-narayanan.medium.com/), [Twitter](https://twitter.com/TheAlphamerc), [Instagram](https://www.instagram.com/_dharun_26/?hl=en), [Linkedin](https://www.linkedin.com/in/dharun-narayanan-l-k-407459197/)
 - :man_technologist: Portfolio: https://dharun-narayanan.github.io/me/
+- 📫 How to reach me: [Github](https://github.com/dharun-narayanan), [Blog](https://dharun-narayanan.medium.com/), [Twitter](https://twitter.com/TheAlphamerc), [Instagram](https://www.instagram.com/_dharun_26/?hl=en), [Linkedin](https://www.linkedin.com/in/dharun-narayanan-l-k-407459197/)
 - 😄 Pronouns:  He/him
 
 
