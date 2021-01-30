@@ -5,6 +5,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/Dharun-Narayanan?label=Dharun-Narayanan&logo=GitHub&style=for-the-badge)
 
 
+<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
+
 - 🔭 I’m currently working on a new fultter project for Google DSC. 
 - 🌱 I’m currently learning Machine Learning and DSA.
 - 👯 I’m looking to collaborate on open source Flutter project. 
@@ -14,7 +16,6 @@
 - 📫 How to reach me: [Github](https://github.com/dharun-narayanan), [Blog](https://dharun-narayanan.medium.com/), [Twitter](https://twitter.com/dharun_official), [Instagram](https://www.instagram.com/_dharun_26/?hl=en), [Linkedin](https://www.linkedin.com/in/dharun-narayanan-l-k-407459197/)
 - 😄 Pronouns:  He/him
 
-<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharun-narayanan&theme=dark&layout=compact)](https://github.com/dharun-narayanan/github-readme-stats)
@@ -23,7 +24,8 @@
 [![Dharun Narayanan's github stats](https://github-readme-stats.vercel.app/api?username=dharun-narayanan&include_all_commits=true&count_private=true&show_icons=true&theme=monokai)](https://github.com/dharun-narayanan/github-readme-stats)
 
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharun-narayanan&layout=compact&hide=html" alt="dharun-narayanan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharun-narayanan&show_icons=true" alt="dharun-narayanan" /></p> <br>
 ![](https://komarev.com/ghpvc/?username=dharun-narayanan&color=brightgreen&style=flat-square)
 
 
