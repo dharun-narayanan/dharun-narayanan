@@ -5,8 +5,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/Dharun-Narayanan?label=Dharun-Narayanan&logo=GitHub&style=for-the-badge)
 
 
-<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
-
+<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150"></img>
+<p align="left">
 - 🔭 I’m currently working on a new fultter project for Google DSC. 
 - 🌱 I’m currently learning Machine Learning and DSA.
 - 👯 I’m looking to collaborate on open source Flutter project. 
@@ -15,7 +15,7 @@
 - :man_technologist: Portfolio: https://dharun-narayanan.github.io/me/
 - 📫 How to reach me: [Github](https://github.com/dharun-narayanan), [Blog](https://dharun-narayanan.medium.com/), [Twitter](https://twitter.com/dharun_official), [Instagram](https://www.instagram.com/_dharun_26/?hl=en), [Linkedin](https://www.linkedin.com/in/dharun-narayanan-l-k-407459197/)
 - 😄 Pronouns:  He/him
-
+</p>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharun-narayanan&theme=dark&layout=compact)](https://github.com/dharun-narayanan/github-readme-stats)
