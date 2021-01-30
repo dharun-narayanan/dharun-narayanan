@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharun Narayanan</h1>
-<h3>A self-taught programmer developer and computer science undergrad.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/</h3> <br><br>
+<h3>A self-taught programmer, developer and computer science undergrad.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/</h3> <br><br>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/dharun_official?label=Dharun_official&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Dharun-Narayanan?label=Dharun-Narayanan&logo=GitHub&style=for-the-badge)<br>
@@ -20,8 +20,8 @@
 [![Dharun Narayanan's github stats](https://github-readme-stats.vercel.app/api?username=dharun-narayanan&include_all_commits=true&count_private=true&show_icons=true&theme=monokai)](https://github.com/dharun-narayanan/github-readme-stats)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharun-narayanan&layout=compact&hide=html" alt="dharun-narayanan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharun-narayanan&show_icons=true" alt="dharun-narayanan" /></p> <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharun-narayanan&layout=compact&hide=html&theme=monokai" alt="dharun-narayanan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharun-narayanan&show_icons=true&theme=monokai" alt="dharun-narayanan" /></p> <br>
 ![](https://komarev.com/ghpvc/?username=dharun-narayanan&color=brightgreen&style=flat-square)
 
 
