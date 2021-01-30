@@ -14,7 +14,7 @@
 - 😄 Pronouns:  He/him
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dharun-narayanan&show_icons=true&theme=monokai" alt="dharun-narayanan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharun-narayanan&layout=compact&hide=html&theme=monokai" alt="dharun-narayanan" /></p> <br><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharun-narayanan&layout=compact&hide=html&theme=monokai" alt="dharun-narayanan" /></p> <br><br>
 
 ![](https://komarev.com/ghpvc/?username=dharun-narayanan&color=brightgreen&style=flat&label=PROFILE+VIEWS)
 
