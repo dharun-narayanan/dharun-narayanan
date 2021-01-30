@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharun Narayanan</h1>
-<h3 align="center">A self-taught programmer developer and computer science undergrad.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/</h3><br>
+<h3>A self-taught programmer developer and computer science undergrad.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/</h3><br>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/dharun_official?label=Dharun_official&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Dharun-Narayanan?label=Dharun-Narayanan&logo=GitHub&style=for-the-badge)<br>
