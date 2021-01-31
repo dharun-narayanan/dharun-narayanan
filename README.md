@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with my one of open source project [Exam Scheduling Management System](https://github.com/dharun-narayanan/Exam-Scheduling-Management-System)
 - 💬 Ask me about Flutter | C++ | Firebase
 - :man_technologist: Portfolio: https://dharun-narayanan.github.io/me/
-- 📫 How to reach me: [Github](https://github.com/dharun-narayanan), [Blog](https://dharun-narayanan.medium.com/), [Twitter](https://twitter.com/dharun_official), [Instagram](https://www.instagram.com/_dharun_26/?hl=en), [Linkedin](https://www.linkedin.com/in/dharun-narayanan-l-k-407459197/)
+- 📫 How to reach me: [Github](https://github.com/dharun-narayanan), [Blog](https://dharun-narayanan.medium.com/), [Twitter](https://twitter.com/dharun_official), [Instagram](https://www.instagram.com/_dharun_26/?hl=en), [Linkedin](https://www.linkedin.com/in/dharun-narayanan-l-k-407459197/), [Email](mailto:lkdharun@gmail.com)
 - 😄 Pronouns:  He/him
 
 <p><img align="left" width= "400" src="https://github-readme-stats.vercel.app/api?username=dharun-narayanan&show_icons=true&theme=monokai" alt="dharun-narayanan" /></p>
