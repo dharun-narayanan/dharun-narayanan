@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dharun Narayanan</h1>
-<h3>A self-taught programmer, developer and computer science undergrad.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/</h3> <br><br>
+<h3>A self-taught programmer, developer and computer science undergrad.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/</h3> <br>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/dharun_official?label=Dharun_official&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Dharun-Narayanan?label=Dharun-Narayanan&logo=GitHub&style=for-the-badge)<br>
+
+![robo hello](https://user-images.githubusercontent.com/51138087/93663951-39922d00-fa20-11ea-952b-48da7a6e5381.gif)
 
 - 🔭 I’m currently working on a new fultter project for Google DSC. 
 - 🌱 I’m currently learning Machine Learning and DSA.
