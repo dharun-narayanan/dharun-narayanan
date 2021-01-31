@@ -3,6 +3,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/dharun_official?label=Dharun_official&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Dharun-Narayanan?label=Dharun-Narayanan&logo=GitHub&style=for-the-badge)<br>
+<a href="https://dharun-narayanan.github.io/me/"><img align="left" width="260" height="260" src="https://github.com/dharun-narayanan/Octocat/blob/main/octocat.gif?raw=true"></a>
 
 ![robo hello](https://user-images.githubusercontent.com/51138087/93663951-39922d00-fa20-11ea-952b-48da7a6e5381.gif)
 
