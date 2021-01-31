@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dharun Narayanan</h1>
 <h3>A self-taught programmer, developer and computer science undergrad.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/</h3> <br>
 
-[![Gmail Badge](https://img.shields.io/badge/-lkdharun@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lkdharun@gmail.com)](mailto:lkdharun@gmail.com)
 ![Twitter Follow](https://img.shields.io/twitter/follow/dharun_official?label=Dharun_official&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Dharun-Narayanan?label=Dharun-Narayanan&logo=GitHub&style=for-the-badge)<br>
 <a href="https://dharun-narayanan.github.io/me/"><img align="left" width="260" height="260" src="https://github.com/dharun-narayanan/Octocat/blob/main/octocat.gif?raw=true"></a>
