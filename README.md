@@ -15,7 +15,7 @@
 - 📫 How to reach me: [Github](https://github.com/dharun-narayanan), [Blog](https://dharun-narayanan.medium.com/), [Twitter](https://twitter.com/dharun_official), [Instagram](https://www.instagram.com/_dharun_26/?hl=en), [Linkedin](https://www.linkedin.com/in/dharun-narayanan-l-k-407459197/), [Email](mailto:lkdharun@gmail.com)
 - 😄 Pronouns:  He/him
 
-<h3>Check out my coding skills</h3>
+<h3>Check out my coding skills:</h3>
 <p align="left">
   <a href="https://www.hackerrank.com/lkdharun" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Dharun Narayanan" height="60" width="45" /></a> &nbsp;&nbsp;
 </p>
