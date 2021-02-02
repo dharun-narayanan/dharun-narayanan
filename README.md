@@ -19,6 +19,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharun-narayanan&layout=compact&hide=html&theme=monokai" alt="dharun-narayanan" /></p>
 <br>
 
+### Check out my coding skills
+<p align="left">
+  <a href="https://www.hackerrank.com/lkdharun" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Dharun Narayanan" height="60" width="45" /></a> &nbsp;&nbsp;
+</p>
+
 ![](https://komarev.com/ghpvc/?username=dharun-narayanan&color=brightgreen&style=flat&label=PROFILE+VIEWS)
 
 
