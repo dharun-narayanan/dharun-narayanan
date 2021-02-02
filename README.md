@@ -15,14 +15,15 @@
 - 📫 How to reach me: [Github](https://github.com/dharun-narayanan), [Blog](https://dharun-narayanan.medium.com/), [Twitter](https://twitter.com/dharun_official), [Instagram](https://www.instagram.com/_dharun_26/?hl=en), [Linkedin](https://www.linkedin.com/in/dharun-narayanan-l-k-407459197/), [Email](mailto:lkdharun@gmail.com)
 - 😄 Pronouns:  He/him
 
+<h3>Check out my coding skills</h3>
+<p align="left">
+  <a href="https://www.hackerrank.com/lkdharun" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Dharun Narayanan" height="60" width="45" /></a> &nbsp;&nbsp;
+</p>
+
 <p><img align="left" width= "400" src="https://github-readme-stats.vercel.app/api?username=dharun-narayanan&show_icons=true&theme=monokai" alt="dharun-narayanan" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharun-narayanan&layout=compact&hide=html&theme=monokai" alt="dharun-narayanan" /></p>
 <br>
 
-### Check out my coding skills
-<p align="left">
-  <a href="https://www.hackerrank.com/lkdharun" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Dharun Narayanan" height="60" width="45" /></a> &nbsp;&nbsp;
-</p>
 
 ![](https://komarev.com/ghpvc/?username=dharun-narayanan&color=brightgreen&style=flat&label=PROFILE+VIEWS)
 
