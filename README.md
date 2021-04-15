@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on open source Flutter project. 
 - 🤔 I’m looking for help with my one of open source project [Exam Scheduling Management System](https://github.com/dharun-narayanan/Exam-Scheduling-Management-System)
 - 💬 Ask me about Flutter | C++ | Firebase
-- - 😄 Pronouns:  He/him
+- 😄 Pronouns:  He/him
 - :man_technologist: You can also check out my portfolio at: https://dharun-narayanan.github.io/me/
 
 
