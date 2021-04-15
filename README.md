@@ -40,4 +40,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharun-narayanan&show_icons=true&locale=en&layout=compact" alt="dharun-narayanan" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dharun-narayanan&show_icons=true&locale=en" alt="dharun-narayanan" /></p>
