@@ -6,6 +6,7 @@
 
 <a href="https://dharun-narayanan.github.io/me/"><img align="left" width="260" height="260" src="https://github.com/dharun-narayanan/Octocat/blob/main/octocat.gif?raw=true"></a>
 ![robo hello](https://user-images.githubusercontent.com/51138087/93663951-39922d00-fa20-11ea-952b-48da7a6e5381.gif)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 
 - 🔭 I’m currently working on a new fultter project for Google DSC. 
