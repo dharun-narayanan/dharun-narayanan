@@ -20,11 +20,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dharun_official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dharun_official" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dharun-narayanan-l-k-407459197" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dharun-narayanan-l-k-407459197" height="30" width="40" /></a>
-<a href="https://fb.com/dharun.narayanan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dharun.narayanan" height="30" width="40" /></a>
-<a href="https://instagram.com/_dharun_26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_dharun_26" height="30" width="40" /></a>
-<a href="https://medium.com/@dharun-narayanan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dharun-narayanan" height="30" width="40" /></a>
+<a href="https://twitter.com/dharun_official" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dharun_official" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dharun-narayanan-l-k-407459197" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dharun-narayanan-l-k-407459197" height="30" width="40" /></a>
+<a href="https://fb.com/dharun.narayanan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dharun.narayanan" height="30" width="40" /></a>
+<a href="https://instagram.com/_dharun_26" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_dharun_26" height="30" width="40" /></a>
+<a href="https://medium.com/@dharun-narayanan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dharun-narayanan" height="30" width="40" /></a>
 </p>
 
 <h3>Check out my coding skills:</h3>
