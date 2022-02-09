@@ -58,6 +58,6 @@
  </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/DharunNarayanan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DharunNarayanan" /></a></p>
+<p><a href="https://www.buymeacoffee.com/DharunNarayanan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="50" width="210" /></a></p>
   
  
