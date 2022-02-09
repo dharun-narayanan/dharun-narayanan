@@ -1,5 +1,22 @@
-<h1 align="center">Hi 👋, I'm Dharun Narayanan</h1>
-<h3>A self-taught programmer, developer and computer science undergrad.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/</h3> <br><br>
+<h1 align="center">
+  Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Dharun Narayanan
+</h1>
+<div align="center" padding:"10px">
+  <a href="https://discord.gg/XTW52Kt">
+    <img alt="Dharun-Narayanan's Discord" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/dharun_official">
+    <img  alt="Dharun-Narayanan's | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/dharun-narayanan-l-k-407459197">
+    <img  alt="Dharun-Narayanan's's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+</div>
+
+<h3>
+  A self-taught programmer, developer and computer science undergrad.
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
+</h3> 
 
 ![](https://komarev.com/ghpvc/?username=dharun-narayanan&color=brightgreen&style=flat&label=PROFILE+VIEWS)<br>
 
