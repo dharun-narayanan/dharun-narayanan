@@ -3,13 +3,13 @@
 </h1>
 <div align="center" padding:"10px">
   <a href="https://discord.gg/XTW52Kt">
-    <img alt="Dharun-Narayanan's Discord" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+    <img alt="Dharun-Narayanan's Discord" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/dharun_official">
-    <img  alt="Dharun-Narayanan's | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+    <img  alt="Dharun-Narayanan's | Twitter" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/dharun-narayanan-l-k-407459197">
-    <img  alt="Dharun-Narayanan's's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img  alt="Dharun-Narayanan's's LinkedIN" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />
   </a>
 </div>
 
@@ -23,7 +23,7 @@
 
 <a href="https://dharun-narayanan.github.io/me/"><img align="left" width="260" height="260" src="https://github.com/dharun-narayanan/Octocat/blob/main/octocat.gif?raw=true"></a>
 ![robo hello](https://user-images.githubusercontent.com/51138087/93663951-39922d00-fa20-11ea-952b-48da7a6e5381.gif)
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/dharun-narayanan/dharun-narayanan/blob/main/code.gif">
 
 
 - 🔭 I’m currently working on a new fultter project for Google DSC. 
@@ -37,11 +37,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dharun_official" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dharun_official" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dharun-narayanan-l-k-407459197" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dharun-narayanan-l-k-407459197" height="30" width="40" /></a>
-<a href="https://fb.com/dharun.narayanan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dharun.narayanan" height="30" width="40" /></a>
-<a href="https://instagram.com/_dharun_26" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_dharun_26" height="30" width="40" /></a>
-<a href="https://medium.com/@dharun-narayanan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dharun-narayanan" height="30" width="40" /></a>
+<a href="https://twitter.com/dharun_official" target="_blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="dharun_official" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dharun-narayanan-l-k-407459197" target="_blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="dharun-narayanan-l-k-407459197" height="30" width="40" /></a>
+<a href="https://fb.com/dharun.narayanan" target="_blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" alt="dharun.narayanan" height="30" width="40" /></a>
+<a href="https://instagram.com/_dharun_26" target="_blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" alt="_dharun_26" height="30" width="40" /></a>
+<a href="https://medium.com/@dharun-narayanan" target="_blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" alt="@dharun-narayanan" height="30" width="40" /></a>
 </p>
 
 <h3>Check out my coding skills:</h3>
