@@ -29,7 +29,7 @@
 - 🔭 I’m currently working on a new fultter project for Google DSC. 
 - 🌱 I’m currently learning Machine Learning and DSA.
 - 👯 I’m looking to collaborate on open source Flutter project. 
-- 🤔 I’m looking for help with my one of open source project [Exam Scheduling Management System](https://github.com/dharun-narayanan/Exam-Scheduling-Management-System)
+- 🤔 I’m looking to collaborate on open source Machine Learning and AI projects.
 - 💬 Ask me about Flutter | C++ | Firebase
 - 😄 Pronouns:  He/him
 - :man_technologist: You can also check out my portfolio at: https://dharun-narayanan.github.io/me/
