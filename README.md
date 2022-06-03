@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Dharun Narayanan
+  Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Dharun Narayanan
 </h1>
 <div align="center" padding:"10px">
   <a href="https://discord.gg/XTW52Kt">
