@@ -1,28 +1,14 @@
+<img align="left" width="100%" height="350" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
 <h1 align="center">
   Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Dharun Narayanan
 </h1>
-<div align="center" padding:"10px">
-  <a href="https://discord.gg/XTW52Kt">
-    <img alt="Dharun-Narayanan's Discord" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/dharun_official">
-    <img  alt="Dharun-Narayanan's | Twitter" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/dharun-narayanan-l-k-407459197">
-    <img  alt="Dharun-Narayanan's's LinkedIN" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />
-  </a>
-</div>
-
-<h3>
-  A self-taught programmer, developer and computer science undergrad.
+<h3 align="center">
+  A Self-Taught Programmer, Developer, Machine Learning Enthusiast and Computer Science Undergrad.
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 </h3> 
 
 ![](https://komarev.com/ghpvc/?username=dharun-narayanan&color=blueviolet&style=flat&label=PROFILE+VIEWS)<br>
 
-
-<a href="https://dharun-narayanan.github.io/me/"><img align="left" width="260" height="260" src="https://github.com/dharun-narayanan/Octocat/blob/main/octocat.gif?raw=true"></a>
-![robo hello](https://user-images.githubusercontent.com/51138087/93663951-39922d00-fa20-11ea-952b-48da7a6e5381.gif)
 <img align="right" alt="Coding" width="450" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif">
 
 
@@ -68,5 +54,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/DharunNarayanan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="50" width="210" /></a></p>
-  
- 
+
+<a href="https://dharun-narayanan.github.io/me/"><img align="left" width="30%" height="300" src="https://github.com/dharun-narayanan/Octocat/blob/main/octocat.gif?raw=true"></a>
+
+<img align="left" width="30%" src="https://user-images.githubusercontent.com/74038190/221352982-8db913c4-1ba0-4674-9fb7-cc2cd71b0443.gif" />
