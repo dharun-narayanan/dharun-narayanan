@@ -57,4 +57,4 @@
 
 <a href="https://dharun-narayanan.github.io/me/"><img align="left" width="30%" height="300" src="https://github.com/dharun-narayanan/Octocat/blob/main/octocat.gif?raw=true"></a>
 
-<img align="left" width="30%" src="https://user-images.githubusercontent.com/74038190/221352982-8db913c4-1ba0-4674-9fb7-cc2cd71b0443.gif" />
+<img align="left" width="30%" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
