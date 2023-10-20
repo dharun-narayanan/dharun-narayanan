@@ -3,7 +3,7 @@
   Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Dharun Narayanan
 </h1>
 <h3 align="center">
-  A Self-Taught Programmer, Developer, Machine Learning Enthusiast and Computer Science Undergrad.
+  Software Engineer | Machine Learning Enthusiastic | Master's Student at Oregon State University
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 </h3> 
 
@@ -12,7 +12,7 @@
 <img align="right" alt="Coding" width="450" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif">
 
 
-- 🔭 I’m currently working on a embedded system with machine learning capabilities project.
+- 🔭 I’m currently working on an embedded system with machine learning capabilities project.
 
 - 🌱 I’m currently learning Machine Learning and DSA.
 
