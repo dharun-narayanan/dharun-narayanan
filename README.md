@@ -3,7 +3,7 @@
   Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Dharun Narayanan
 </h1>
 <h3 align="center">
-  Software Engineer | Machine Learning Enthusiastic | Master's Student at Oregon State University
+  Software Engineer | Security Engineer | Cybersecrity, Machine Learning, Deep Learning Enthusiastic
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 </h3> 
 
@@ -12,21 +12,21 @@
 <img align="right" alt="Coding" width="450" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif">
 
 
-- 🔭 I’m currently working on an embedded system with machine learning capabilities project.
+- 🔭 I’m currently working on integration of Cybersecurity and aritificial Intelligence project.
 
-- 🌱 I’m currently learning Machine Learning and DSA.
+- 🌱 I’m currently learning Machine Learning, Deep Learning, Natural Language Processing and Offesinve Security.
 
-- 👯 I’m looking to collaborate on **End to End Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Human-Centered Design Projects**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/dharun-narayanan) [Protfolio](https://dharun-narayanan.github.io/me/)
 
-- 📄 Know about my experiences [Resume](https://1drv.ms/b/s!AuE0xx_ikcckgbkeaPo5sozMmwWBdQ?e=h84e6J)
+- 📄 Know about my experiences [Resume](https://1drv.ms/b/s!AuE0xx_ikcckhbtpbTGYPgy8dIk4yg?e=K5jefO)
 
 - 😄 Pronouns:  He/him
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_dharun_26" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dharun_26" height="30" width="40" /></a>
+<a href="https://instagram.com/dharun_narayanan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dharun_26" height="30" width="40" /></a>
 <a href="https://twitter.com/dharun_official" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dharun_official" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dharun-narayanan-l-k-407459197" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharun-narayanan-l-k-407459197" height="30" width="40" /></a>
 <a href="https://fb.com/dharun.narayanan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dharun.narayanan" height="30" width="40" /></a>
